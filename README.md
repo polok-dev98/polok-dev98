@@ -41,7 +41,8 @@ Skills : python / C / C++ / Machine learning / Deep learning / Data visualizatio
 
 
 
-Contact me:☺☺☺
+                                                        <h3>Contact with me:☺☺☺</h3>
+                                                        
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/polok-dev98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/asif-pervez-polok-237445210/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/pol.ok.5203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/asifpervezpolok)  
