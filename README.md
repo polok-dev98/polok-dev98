@@ -1,10 +1,18 @@
 ### Hi there 👋, Myself Polok, Welcome to my github profile 😎
 #### Machine Learning Engineer
 
+
+
+
+
 ![Machine Learning Engineer](https://monkeylearn.com/static/d7bc5e292b4d171b0105b91a9c5ba9ae/4394e/normal.webp)
 
 
 
+
+                                           Thanks for visit my profile🙂🙂🙂
+                                      
+                                      
 
 👨🏻‍💻  About Me
 
@@ -25,9 +33,10 @@
 
 
 
+                                                                Skills 😎😎😎: 
 
-
-Skills : python / C / C++ / Machine learning / Deep learning / Data visualization / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask/ Anaconda / jupyter notebook .
+                                                 
+python / C / C++ / Machine learning / Deep learning / Data visualization / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask/ Anaconda / jupyter notebook .
 
 
 
@@ -41,7 +50,7 @@ Skills : python / C / C++ / Machine learning / Deep learning / Data visualizatio
 
 
 
-                                                        <h3>Contact with me:☺☺☺</h3>
+                                                           Contact with me:☺☺☺
                                                         
 
 
