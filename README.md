@@ -1,4 +1,5 @@
-### Hi there 👋, Myself Polok, Welcome to my github profile 😎
+                                                     Welcome to my github profile 😎
+### Hi there 👋, Myself Polok 😊
 #### Machine Learning Engineer
 
 
@@ -33,13 +34,14 @@
 
 
 
-                                                                Skills 😎😎😎: 
+                                                                My Skills 😎😎😎: 
 
                                                  
 python / C / C++ / Machine learning / Deep learning / Data visualization / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask/ Anaconda / jupyter notebook .
 
 
 
+                                                             prograss and status info
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=polok-dev98&show_icons=true&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polok-dev98)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -50,7 +52,7 @@ python / C / C++ / Machine learning / Deep learning / Data visualization / GUI p
 
 
 
-                                                           Contact with me:☺☺☺
+                                                           Contact with me:😎😎😎
                                                         
 
 
