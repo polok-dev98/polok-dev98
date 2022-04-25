@@ -31,7 +31,7 @@
 
 💬 Follow my Kaggle account : "Asif pervez polok" and Feel free to knock me :)
 
-⚡ Fun fact: I am a good Player 😄 and Game Lover also.
+⚡ Fun fact: I am a sports lover 😄 
 
 
 
@@ -39,7 +39,7 @@
                                                                 My Skills 😎😎😎: 
 
                                                  
-python / C / C++ / Machine learning / Deep learning / Data visualization / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask/ Anaconda / jupyter notebook .
+python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / jupyter notebook .
 
 
 
