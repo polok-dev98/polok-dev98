@@ -39,7 +39,7 @@
                                                                 My Skills 😎😎😎: 
 
                                                  
-python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / jupyter notebook .
+python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / Colab / jupyter notebook / Big Data (PySpark) / SQL & No-SQL / Time Series Analysis.
 
 
 
