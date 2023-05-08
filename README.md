@@ -23,7 +23,7 @@
 
 🌱 I'm on track for learning DataScience, AI, ML and Deep Learning.
 
-🎓 I'm completed B.Sc Engineering at Noakhali Science and Technology University (NSTU),Dept of Information and Communication Engineering (ICE)
+🎓 I've completed B.Sc Engineering at Noakhali Science and Technology University (NSTU),Dept of Information and Communication Engineering (ICE)
 
 👯 I’m looking to collaborate Who Working on Machine Learning and DataScience Field.
 
