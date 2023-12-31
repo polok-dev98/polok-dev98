@@ -62,3 +62,7 @@ python / C / C++ / Machine learning / Deep learning / Data visualization / Natur
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polok-dev98&show_icons=true&locale=en" alt="polok-dev98" /></p>
 
+![GitHub metrics](https://metrics.lecoq.io/polok-dev98)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=polok-dev98) 
+
