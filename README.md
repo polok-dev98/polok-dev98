@@ -3,14 +3,12 @@
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3><br>
 
 # 💫 About Me:
-💡 I like to explore new technologies ,new algorithm, new language, Problem solving and quick hacks.<br><br>🌱 I'm on track for learning DataScience, AI, ML and Deep Learning.<br><br>🎓 I've completed B.Sc Engineering at Noakhali Science and Technology University (NSTU),Dept of Information and Communication Engineering (ICE)<br><br>👯 I’m looking to collaborate Who Working on Machine Learning and DataScience Field.<br><br>✉️ You can shoot me an email at asifperveznstu.jsr369@gamil.com I'll try to respond as soon as I can.<br><br>💬 Follow my Kaggle account : "Asif pervez polok" and Feel free to knock me :)<br><br>⚡ Fun fact: I am a sports lover 😄 <br>
+💡 I like to explore new technologies ,new algorithm, new language, Problem solving and quick hacks.<br><br>🌱 I'm on track for learning DataScience, AI, ML and Deep Learning.<br><br>🎓 I've completed B.Sc Engineering at Noakhali Science and Technology University (NSTU),Dept of Information and Communication Engineering (ICE)<br><br>👯 I’m looking to collaborate Who Working on Machine Learning and DataScience Field.<br><br>✉️ You can shoot me an email at asifperveznstu.jsr369@gamil.com I'll try to respond as soon as I can.<br><br>💬 Follow my Kaggle account : "Asif pervez polok" and Feel free to knock me :)<br><br>⚡ Fun fact: I am a sports lover 😄 <br><br>
 
-### 🔝 Skills:
+# 🔝 Skills:
+python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / Colab / jupyter notebook / Big Data (PySpark) / SQL & No-SQL / Time Series Analysis.<br><br>
 
-python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / Colab / jupyter notebook / Big Data (PySpark) / SQL & No-SQL / Time Series Analysis.<br>
-
-## 🌐 Socials:
-
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/asif-pervez-polok-237445210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-pervez-polok-237445210" height="30" width="40" /></a>
 <a href="https://kaggle.com/asifpervezpolok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asifpervezpolok" height="30" width="40" /></a>
@@ -25,16 +23,10 @@ python / C / C++ / Machine learning / Deep learning / Data visualization / Natur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=polok-dev98&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=polok-dev98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=polok-dev98&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+# 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=polok-dev98&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
