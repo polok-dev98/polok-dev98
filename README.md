@@ -2,6 +2,27 @@
 <h1 align="center">Hi 👋, I'm Asif Pervez Polok</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
+ Thanks for visit my profile🙂🙂🙂
+                                                                        
+
+👨🏻‍💻  About Me
+
+💡 I like to explore new technologies ,new algorithm, new language, Problem solving and quick hacks.
+
+🌱 I'm on track for learning DataScience, AI, ML and Deep Learning.
+
+🎓 I've completed B.Sc Engineering at Noakhali Science and Technology University (NSTU),Dept of Information and Communication Engineering (ICE)
+
+👯 I’m looking to collaborate Who Working on Machine Learning and DataScience Field.
+
+✉️ You can shoot me an email at asifperveznstu.jsr369@gamil.com I'll try to respond as soon as I can.
+
+💬 Follow my Kaggle account : "Asif pervez polok" and Feel free to knock me :)
+
+⚡ Fun fact: I am a sports lover 😄 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polok-dev98&label=Profile%20views&color=0e75b6&style=flat" alt="polok-dev98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polok-dev98" alt="polok-dev98" /></a> </p>
