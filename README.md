@@ -32,7 +32,7 @@ python / C / C++ / Machine learning / Deep learning / Data visualization / Natur
           <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
                Natural Language Processing
             </span>
-          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(1, 1, 0, 0.1);">
                 Computer Vision
             </span>
           <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
