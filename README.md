@@ -25,9 +25,22 @@
 
 ⚡ Fun fact: I am a sports lover 😄 
 
+
+
+
 <h1 align="center"> My Skills 😎😎😎</h1>
                                                  
 python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / Colab / jupyter notebook / Big Data (PySpark) / SQL & No-SQL / Time Series Analysis.
+
+
+
+
+<h1 align="center">Connect with me:</h1>
+<p align="left">
+<a href="https://linkedin.com/in/asif-pervez-polok-237445210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-pervez-polok-237445210" height="30" width="40" /></a>
+<a href="https://kaggle.com/asifpervezpolok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asifpervezpolok" height="30" width="40" /></a>
+<a href="https://fb.com/asif pervez polok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif pervez polok" height="30" width="40" /></a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polok-dev98&label=Profile%20views&color=0e75b6&style=flat" alt="polok-dev98" /> </p>
