@@ -58,7 +58,7 @@ python / C / C++ / Machine learning / Deep learning / Data visualization / Natur
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polok-dev98&show_icons=true&locale=en&layout=compact" alt="polok-dev98" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polok-dev98&show_icons=true&locale=en" alt="polok-dev98" /></p>
 
