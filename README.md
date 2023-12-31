@@ -28,5 +28,3 @@ python / C / C++ / Machine learning / Deep learning / Data visualization / Natur
 
 # 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=polok-dev98&icon=1&color=3)](https://visitcount.itsvg.in)
