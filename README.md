@@ -2,10 +2,14 @@
 <h1 align="center">Hi 👋, I'm Asif Pervez Polok</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3>
 
+
+
  Thanks for visit my profile🙂🙂🙂
+
+ 
                                                                         
 
-👨🏻‍💻  About Me
+<h1 align="center">👨🏻‍💻 About M</h1>
 
 💡 I like to explore new technologies ,new algorithm, new language, Problem solving and quick hacks.
 
@@ -21,6 +25,9 @@
 
 ⚡ Fun fact: I am a sports lover 😄 
 
+<h1 align="center"> My Skills 😎😎😎</h1>
+                                                 
+python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / Colab / jupyter notebook / Big Data (PySpark) / SQL & No-SQL / Time Series Analysis.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polok-dev98&label=Profile%20views&color=0e75b6&style=flat" alt="polok-dev98" /> </p>
