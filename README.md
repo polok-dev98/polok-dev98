@@ -17,6 +17,72 @@ python / C / C++ / Machine learning / Deep learning / Data visualization / Natur
             <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
                 C
             </span>
+             <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                C++
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Machine learning
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Deep learning
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Data visualization
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+               Natural Language Processing
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Computer Vision
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Remmendation System
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Tablue
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                GUI programming
+            </span>
+         <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Data analysis
+            </span>
+         <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                git
+            </span>
+         <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                html
+            </span>
+         <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+               CSS
+            </span>
+         <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+               Bootstrap
+            </span>
+         <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Flask
+            </span>
+         <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Anaconda
+            </span>
+         <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Anaconda
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Colab
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                jupyter notebook
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Big Data (PySpark)
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                SQL & No-SQL
+            </span>
+          <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Time Series Analysis
+            </span>
             <!-- Add other skills using the same span structure -->
         </samp>
     </p>
