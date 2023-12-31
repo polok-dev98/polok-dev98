@@ -8,6 +8,20 @@
 # 🔝 Skills:
 python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / Colab / jupyter notebook / Big Data (PySpark) / SQL & No-SQL / Time Series Analysis.<br><br>
 
+<div align="center">
+    <p>
+        <samp>
+            <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                Python
+            </span>
+            <span style="background-color: #f2f2f2; padding: 4px 8px; margin: 0 4px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+                C
+            </span>
+            <!-- Add other skills using the same span structure -->
+        </samp>
+    </p>
+</div>
+
 # 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/asif-pervez-polok-237445210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-pervez-polok-237445210" height="30" width="40" /></a>
