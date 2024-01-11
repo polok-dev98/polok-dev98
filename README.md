@@ -5,6 +5,8 @@
 # 💫 About Me:
 💡 I like to explore new technologies ,new algorithm, new language, Problem solving and quick hacks.<br><br>🌱 I'm on track for learning DataScience, AI, ML and Deep Learning.<br><br>🎓 I've completed B.Sc Engineering at Noakhali Science and Technology University (NSTU),Dept of Information and Communication Engineering (ICE)<br><br>👯 I’m looking to collaborate Who Working on Machine Learning and DataScience Field.<br><br>✉️ You can shoot me an email at asifperveznstu.jsr369@gamil.com I'll try to respond as soon as I can.<br><br>💬 Follow my Kaggle account : "Asif pervez polok" and Feel free to knock me :)<br><br>⚡ Fun fact: I am a sports lover 😄 <br><br>
 
+![](https://komarev.com/ghpvc/?username=polok-dev98&color=green) <br>
+
 # 🔝 Skills:
 python / C / C++ / Machine learning / Deep learning / Data visualization / Natural Language Processing / Computer Vision / Remmendation System / Tablue / GUI programming / Data analysis / git / html / CSS / Bootstrap / Flask / Anaconda / Colab / jupyter notebook / Big Data (PySpark) / SQL & No-SQL / Time Series Analysis.<br><br>
 
