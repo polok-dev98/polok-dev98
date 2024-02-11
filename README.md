@@ -1,6 +1,6 @@
  ![Machine Learning Engineer](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
 <h1 align="center">Hi 👋, I'm Asif Pervez Polok</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3><br>.
+<h3 align="center">A passionate Machine Learning Engineer from Bangladesh</h3><br>
 
 ![](https://komarev.com/ghpvc/?username=polok-dev98&color=green)     <br>
 
